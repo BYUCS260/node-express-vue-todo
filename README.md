@@ -211,7 +211,7 @@ You should be able to test this with the following:
 node server.js
 ```
 
-Visit `localhost:3000` in your browser. Notice that when you refresh the page, items are not lost now, because they are stored on the server
+Visit `http://yourhost:3000` in your browser. Notice that when you refresh the page, items are not lost now, because they are stored on the server
 
 ## Updating items
 
